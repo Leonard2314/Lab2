@@ -11,6 +11,7 @@ import statistics
    #             print("person if normal weight")
    #     elif(bmi>25.0):
    #             print("person is overweight") 
+'''
 def display_main_menu():
         print("Enter some numbers separated by commas (e.g. 5, 67,")
 def get_user_input():
@@ -47,3 +48,4 @@ calc_average(z)
 sort_temperature(z)
 find_min_max(z)
 calc_median_temperature(z)
+'''
