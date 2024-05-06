@@ -16,4 +16,5 @@
                 print("person is overweight") 
                 x=1
         return x       
-calculate_bmi(weight = 57, height =1.73)   
+if __name__=="__main__":
+        calculate_bmi(weight = 57, height =1.73)   
